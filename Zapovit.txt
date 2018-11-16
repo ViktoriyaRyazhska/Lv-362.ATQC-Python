@@ -1,3 +1,11 @@
 Jak pomry, to pohovayte
+<<<<<<< HEAD
 Shchob lany shyrokopoli,
+=======
+mene na mogyli
+Sered stepu shyrokogo
+>>>>>>> 0094fa3d7e47b2229d83e98321ad0e86412b1dca
 yak reve revuchyi.
+Jak ponese z Ukrainu
+
+
